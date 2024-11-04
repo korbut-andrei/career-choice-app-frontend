@@ -7,7 +7,7 @@ function Sidebar() {
         <div className="sidebar" style={{ width: '250px', backgroundColor: '#f0f0f0', height: '100vh', padding: '20px' }}>
             <h2>My Sidebar</h2>
             <ul style={{ listStyleType: 'none', padding: 0 }}>
-                <li><Link to="/">Main</Link></li>
+                <li><Link to="/">Main page</Link></li>
             </ul>
         </div>
     );
